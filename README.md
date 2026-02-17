@@ -50,3 +50,8 @@ This project focuses on creating a real-world mini application without using any
 
 ## 📂 Project Structure
 
+calculator-project/
+│
+├── index.html # Main structure of the calculator
+├── style.css # Styling and responsive design
+└── script.js # Logic and functionality
