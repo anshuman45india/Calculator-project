@@ -1,6 +1,6 @@
-# 🧮 Calculator Web Application
+# 🧮 Calculator
 
-A simple, responsive, and user-friendly **Calculator Web Application** built using **HTML, CSS, and JavaScript**. This project performs basic arithmetic calculations and demonstrates core web development concepts such as DOM manipulation, event handling, and responsive UI design.
+A simple, responsive, and user-friendly **Calculator** built using **HTML, CSS, and JavaScript**. This project performs basic arithmetic calculations and demonstrates core web development concepts such as DOM manipulation, event handling, and responsive UI design.
 
 ---
 
