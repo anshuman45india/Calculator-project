@@ -48,10 +48,18 @@ This project focuses on creating a real-world mini application without using any
 
 ---
 
-## 📂 Project Structure
+## ⚙️ How It Works
 
-calculator-project/
-│
-├── index.html # Main structure of the calculator
-├── style.css # Styling and responsive design
-└── script.js # Logic and functionality
+1. User clicks calculator buttons.
+2. JavaScript captures button events.
+3. Input values are displayed on the screen.
+4. Mathematical expressions are evaluated.
+5. Result is shown instantly.
+
+The project uses:
+- Event listeners
+- String manipulation
+- Basic evaluation logic
+- DOM updates
+
+---
